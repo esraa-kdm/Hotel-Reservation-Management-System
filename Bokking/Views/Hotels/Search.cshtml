@@ -1,0 +1,139 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+
+@model IEnumerable<Hotel>
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Booking</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="" />
+    <link rel="stylesheet" type="text/css" href="~/Home//fonts.googleapis.com/css?family=|Roboto+Sans:400,700|Playfair+Display:400,700">
+
+    <link rel="stylesheet" href="~/Home/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Home/css/animate.css">
+    <link rel="stylesheet" href="~/Home/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/Home/css/aos.css">
+    <link rel="stylesheet" href="~/Home/css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="~/Home/css/jquery.timepicker.css">
+    <link rel="stylesheet" href="~/Home/css/fancybox.min.css">
+
+    <link rel="stylesheet" href="~/Home/fonts/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="~/Home/fonts/fontawesome/css/font-awesome.min.css">
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" href="~/Home/css/style.css">
+</head>
+<body>
+
+    <h2 style="text-align:center;color:#6c757d;">Search Hotels</h2>
+
+<form method="get" asp-controller="Hotels" asp-action="Search">
+        <input type="text" name="searchString" placeholder="name or location" style="margin-left:500px;padding-right:300px ; border: 2px solid #fd7e14;
+            border-radius: 15px;" width="100" height="50"/>
+        <button type="submit" style="border-radius: 15px ;border: 2px solid #fd7e14 ;color:#fd7e14">Search</button>
+</form>
+<hr />
+
+<table style="margin-left:200px;">
+    <thead>
+        <tr >
+                <th style="padding-right:200px">Name</th>
+                <th style ="padding-right:200px">Country</th>
+                <th style="padding-right:200px">City</th>
+                <th style="padding-right:200px">Contact Info</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var hotel in Model)
+        {
+                <tr >
+                    <td style="padding-right:200px ;padding-bottom:20px">@hotel.Hotelname</td>
+                    <td style="padding-right:200px;padding-bottom:20px">@hotel.Country</td>
+                    <td style="padding-right:200px;padding-bottom:20px">@hotel.City</td>
+                    <td style="padding-right:200px;padding-bottom:20px">@hotel.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+    <footer class="section footer-section">
+        <div class="container">
+            <div class="row mb-4">
+                <div class="col-md-3 mb-5">
+                    <ul class="list-unstyled link">
+                        <li><a asp-controller="Home" asp-action="AboutUs">About Us</a></li>
+                        <li><a href="#">Terms &amp; Conditions</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a asp-controller="Home" asp-action="Rooms">Rooms</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 mb-5">
+                    <ul class="list-unstyled link">
+                        <li><a asp-controller="Home" asp-action="Rooms">The Rooms &amp; Suites</a></li>
+                        <li><a asp-controller="Home" asp-action="AboutUs">About Us</a></li>
+                        <li><a asp-controller="Feedbacks" asp-action="ContactUs">Contact Us</a></li>
+
+                    </ul>
+                </div>
+                <div class="col-md-3 mb-5 pr-md-5 contact-info">
+                    <!-- <li>198 West 21th Street, <br> Suite 721 New York NY 10016</li> -->
+                    <p><span class="d-block"><span class="ion-ios-location h5 mr-3 text-primary"></span>Address:</span> <span>Jordan </span></p>
+                    <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>Phone:</span> <span> (+1) 435 3533</span></p>
+                    <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span> BookingInfo@domain.com</span></p>
+                </div>
+                <div class="col-md-3 mb-5">
+                    <p>Sign up for our newsletter</p>
+                    <form action="#" class="footer-newsletter">
+                        <div class="form-group">
+                            <input type="email" class="form-control" placeholder="Email...">
+                            <button type="submit" class="btn"><span class="fa fa-paper-plane"></span></button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="row pt-5">
+                <p class="col-md-6 text-left">
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    Copyright &copy;Booking
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                </p>
+
+                <p class="col-md-6 text-right social">
+
+                    <a href="https://www.bing.com/ck/a?!&&p=aeb60cf06f211368JmltdHM9MTcyNDgwMzIwMCZpZ3VpZD0zZmUxNzIwMy0wMDQ5LTY4MGMtMTY2Ny02MDY3MDFhOTY5NTUmaW5zaWQ9NTQ2MA&ptn=3&ver=2&hsh=3&fclid=3fe17203-0049-680c-1667-606701a96955&psq=facebook&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLw&ntb=1"><span class="fa fa-facebook"></span></a>
+                    <a href="https://www.bing.com/ck/a?!&&p=4bccc34334c59e02JmltdHM9MTcyNDgwMzIwMCZpZ3VpZD0zZmUxNzIwMy0wMDQ5LTY4MGMtMTY2Ny02MDY3MDFhOTY5NTUmaW5zaWQ9NTI2Mg&ptn=3&ver=2&hsh=3&fclid=3fe17203-0049-680c-1667-606701a96955&psq=x&u=a1aHR0cHM6Ly90d2l0dGVyLmNvbS9TaWdudXA&ntb=1"><span class="fa fa-twitter"></span></a>
+                    <a href="https://www.bing.com/ck/a?!&&p=ff0589e22221e4c2JmltdHM9MTcyNDgwMzIwMCZpZ3VpZD0zZmUxNzIwMy0wMDQ5LTY4MGMtMTY2Ny02MDY3MDFhOTY5NTUmaW5zaWQ9NTQ3Mw&ptn=3&ver=2&hsh=3&fclid=3fe17203-0049-680c-1667-606701a96955&psq=linked&u=a1aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3NpZ251cA&ntb=1"><span class="fa fa-linkedin"></span></a>
+
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/Home/js/jquery-3.3.1.min.js"></script>
+    <script src="~/Home/js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="~/Home/js/popper.min.js"></script>
+    <script src="~/Home/js/bootstrap.min.js"></script>
+    <script src="~/Home/js/owl.carousel.min.js"></script>
+    <script src="~/Home/js/jquery.stellar.min.js"></script>
+    <script src="~/Home/js/jquery.fancybox.min.js"></script>
+
+
+    <script src="~/Home/js/aos.js"></script>
+
+    <script src="~/Home/js/bootstrap-datepicker.js"></script>
+    <script src="~/Home/js/jquery.timepicker.min.js"></script>
+
+
+
+    <script src="~/Home/js/main.js"></script>
+</body>
+</html>

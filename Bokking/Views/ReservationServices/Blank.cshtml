@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@if(ViewBag.error == "1")
+{
+    <div class="row site-hero-inner justify-content-center align-items-center">
+        <div class="col-md-10 text-center" data-aos="fade">
+            <h3 class="heading mb-3">The account does not have sufficient funds.</h3>
+            <ul class="custom-breadcrumbs mb-4">
+                <li><a asp-controller="ReservationServices" asp-action="ReservationService"></a></li>
+            </ul>
+        </div>
+    </div>
+}
+
+@if(ViewBag.error2 =="2")
+{
+    <div class="row site-hero-inner justify-content-center align-items-center">
+        <div class="col-md-10 text-center" data-aos="fade">
+                <h3 class="heading mb-3"> CardNumber is NotVailad.Pleas try agin! .</h3>
+                <ul class="custom-breadcrumbs mb-4">
+                    <li><a asp-controller="ReservationServices" asp-action="ReservationService"></a></li>
+                </ul>
+        </div>
+    </div>
+       
+}
+
+{
+      <div class="row site-hero-inner justify-content-center align-items-center">
+          <div class="col-md-10 text-center" data-aos="fade">
+            <h3 class="heading mb-3">The selected room is not available for the chosen dates. Please choose a different room or date</h3>
+            <ul class="custom-breadcrumbs mb-4">
+                <li><a asp-controller="Reservations" asp-action="Reserve"></a></li>
+            </ul>
+          </div>
+      </div>
+
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Bokking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9052AF9-7E5A-4487-8C8E-01699895FC85}|Bokking\\Booking.csproj|c:\\users\\user\\source\\repos\\bokking\\bokking\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9052AF9-7E5A-4487-8C8E-01699895FC85}|Bokking\\Booking.csproj|solutionrelative:bokking\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9052AF9-7E5A-4487-8C8E-01699895FC85}|Bokking\\Booking.csproj|c:\\users\\user\\source\\repos\\bokking\\bokking\\views\\reservationservices\\blank.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9052AF9-7E5A-4487-8C8E-01699895FC85}|Bokking\\Booking.csproj|solutionrelative:bokking\\views\\reservationservices\\blank.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blank.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\Views\\ReservationServices\\Blank.cshtml",
+              "RelativeDocumentMoniker": "Bokking\\Views\\ReservationServices\\Blank.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\Views\\ReservationServices\\Blank.cshtml",
+              "RelativeToolTip": "Bokking\\Views\\ReservationServices\\Blank.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T10:42:26.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Bokking\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Bokking\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAmwNYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:37:23.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

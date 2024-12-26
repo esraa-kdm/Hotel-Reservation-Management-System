@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Bokking.Models.Room>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Rooms</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Rommnumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Roomtype)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pricepernight)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Availability)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Imagepath)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HotelId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rommnumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Roomtype)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pricepernight)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Availability)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                    <img src=@Url.Content("~/Image/"+item.Imagepath ) asp-append-version="true" style="border-radius:20%;" width="100" height="100" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HotelId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

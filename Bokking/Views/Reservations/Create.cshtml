@@ -1,0 +1,66 @@
+﻿@model Bokking.Models.Reservation
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Reservation</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CheckIn" class="control-label"></label>
+                <input asp-for="CheckIn" class="form-control" />
+                <span asp-validation-for="CheckIn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CheckOut" class="control-label"></label>
+                <input asp-for="CheckOut" class="form-control" />
+                <span asp-validation-for="CheckOut" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalPrice" class="control-label"></label>
+                <input asp-for="TotalPrice" class="form-control" />
+                <span asp-validation-for="TotalPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PayementStatus" class="control-label"></label>
+                <input asp-for="PayementStatus" class="form-control" />
+                <span asp-validation-for="PayementStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Userid" class="control-label"></label>
+                <select asp-for="Userid" class ="form-control" asp-items="ViewBag.Userid"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Hotelid" class="control-label"></label>
+                <input asp-for="Hotelid" class="form-control" />
+                <span asp-validation-for="Hotelid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Roomid" class="control-label"></label>
+                <input asp-for="Roomid" class="form-control" />
+                <span asp-validation-for="Roomid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Serviceid" class="control-label"></label>
+                <select asp-for="Serviceid" class ="form-control" asp-items="ViewBag.Serviceid"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Room>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th> RoomType </th>
+            <th> PricePerNight </th>
+            <th> Avaliablity </th>
+            <th> Description </th>
+            <th> Image </th>
+            <th> Book</th>
+        </tr>
+    </thead>
+    <tbody>
+       @foreach(var item in Model)
+       {  
+             <tr>
+                   <td>@item.Roomtype</td>
+                <td>@item.Pricepernight</td>
+                <td>@item.Availability</td>
+                <td>@item.Description</td>
+                <td><img src=@Url.Content("~/Image/"+item.Imagepath) asp-append-version="true" style="border-radius:20%" width="200" height="150"/></td>
+                <td><a asp-controller="Reservations" asp-action="Reserve" asp-route-id="@item.Id"> Book Room</a></td>
+             </tr>
+       }
+    </tbody>
+</table>

@@ -1,0 +1,2093 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Booking.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Booking.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\_custom.css",
+      "PackagePath": "staticwebassets\\Home\\css\\_custom.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Home\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\aos.css",
+      "PackagePath": "staticwebassets\\Home\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\Home\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Home\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Home\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Home\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Home\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Home\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\fancybox.min.css",
+      "PackagePath": "staticwebassets\\Home\\css\\fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\Home\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Home\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Home\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\css\\style.css",
+      "PackagePath": "staticwebassets\\Home\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\fontawesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\fontawesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\fontawesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\fontawesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\ionicons\\cheatsheet.html",
+      "PackagePath": "staticwebassets\\Home\\fonts\\ionicons\\cheatsheet.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\ionicons\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\Home\\fonts\\ionicons\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\Home\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\Home\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\Home\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\Home\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\about_feature_image.png",
+      "PackagePath": "staticwebassets\\Home\\images\\about_feature_image.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\food-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\food-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\hero_2.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\hero_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\hero_3.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\hero_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\hero_4.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\hero_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\image_5.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\image_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\image_6.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\image_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\image_7.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\image_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\img_5.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\img_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\round.png",
+      "PackagePath": "staticwebassets\\Home\\images\\round.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\slider-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\slider-5.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\slider-6.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\images\\slider-7.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slider-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\aos.js",
+      "PackagePath": "staticwebassets\\Home\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\Home\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\main.js",
+      "PackagePath": "staticwebassets\\Home\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_custom.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Home\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\090763f1-daf1-48f1-a49f-aa3c119620f8_1k.jpg",
+      "PackagePath": "staticwebassets\\Image\\090763f1-daf1-48f1-a49f-aa3c119620f8_1k.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\0a96a27c-895a-47ce-add8-d972839be4a6_mobbbvn.jpg",
+      "PackagePath": "staticwebassets\\Image\\0a96a27c-895a-47ce-add8-d972839be4a6_mobbbvn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\0faa4c0a-22a3-4a4e-90b6-698c80af1c28_3k.jpg",
+      "PackagePath": "staticwebassets\\Image\\0faa4c0a-22a3-4a4e-90b6-698c80af1c28_3k.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\11c54e64-1bf4-4019-a859-981073756af1_ballroom-wedding-1467527_51_1982185-170904898999686.jpeg",
+      "PackagePath": "staticwebassets\\Image\\11c54e64-1bf4-4019-a859-981073756af1_ballroom-wedding-1467527_51_1982185-170904898999686.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\13535265-a6f1-4a79-90aa-d002a025a5bc_room 1 for.jpg",
+      "PackagePath": "staticwebassets\\Image\\13535265-a6f1-4a79-90aa-d002a025a5bc_room 1 for.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\13eb6fbe-a75c-4179-bd52-20a9a82d6d34_crrrrom.jpg",
+      "PackagePath": "staticwebassets\\Image\\13eb6fbe-a75c-4179-bd52-20a9a82d6d34_crrrrom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\1430a4bb-2554-481a-bd41-1eed4a29e73a_66.jpg",
+      "PackagePath": "staticwebassets\\Image\\1430a4bb-2554-481a-bd41-1eed4a29e73a_66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\1cd25bb8-2fac-4477-8230-32ab642a4279_لقطة شاشة 2023-10-19 124657.png",
+      "PackagePath": "staticwebassets\\Image\\1cd25bb8-2fac-4477-8230-32ab642a4279_لقطة شاشة 2023-10-19 124657.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\1cf523c7-1696-471e-9f31-d197b687927b_‏‏لقطة الشاشة (1).png",
+      "PackagePath": "staticwebassets\\Image\\1cf523c7-1696-471e-9f31-d197b687927b_‏‏لقطة الشاشة (1).png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\26f509eb-1e97-45e9-ae7b-11517357295a_kiiiiiiiiiiiiiii.jpg",
+      "PackagePath": "staticwebassets\\Image\\26f509eb-1e97-45e9-ae7b-11517357295a_kiiiiiiiiiiiiiii.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\2a00dab7-911a-43c0-a936-a6ba3f021fd9_لقطة شاشة 2023-10-19 124142.png",
+      "PackagePath": "staticwebassets\\Image\\2a00dab7-911a-43c0-a936-a6ba3f021fd9_لقطة شاشة 2023-10-19 124142.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\3389432b-4c6b-48ec-a581-92a31836ebce_sara.jpg",
+      "PackagePath": "staticwebassets\\Image\\3389432b-4c6b-48ec-a581-92a31836ebce_sara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\368e7e98-5721-4291-a502-d9e01c0c1124_1m.webp",
+      "PackagePath": "staticwebassets\\Image\\368e7e98-5721-4291-a502-d9e01c0c1124_1m.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\3740a03d-9493-4593-be8d-fab89b6a80bb_1c.jpg",
+      "PackagePath": "staticwebassets\\Image\\3740a03d-9493-4593-be8d-fab89b6a80bb_1c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\3b056bf5-f77e-4674-a619-76cd1d6e57a1_‏‏لقطة الشاشة (2).png",
+      "PackagePath": "staticwebassets\\Image\\3b056bf5-f77e-4674-a619-76cd1d6e57a1_‏‏لقطة الشاشة (2).png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\3f33b2ee-411f-4db8-8003-edeb51868773_sant reg.jpg",
+      "PackagePath": "staticwebassets\\Image\\3f33b2ee-411f-4db8-8003-edeb51868773_sant reg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\4cb61be8-8c35-4f38-89f7-d2d80ea54912_63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg",
+      "PackagePath": "staticwebassets\\Image\\4cb61be8-8c35-4f38-89f7-d2d80ea54912_63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\4f33ec05-8bc3-4780-8fe7-d7b75395daee_1m.webp",
+      "PackagePath": "staticwebassets\\Image\\4f33ec05-8bc3-4780-8fe7-d7b75395daee_1m.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\5c90d078-7b17-4927-9169-2a486c50a90b_st1.avif",
+      "PackagePath": "staticwebassets\\Image\\5c90d078-7b17-4927-9169-2a486c50a90b_st1.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\5ce73e3a-95a8-4e60-b139-fed8e63c6688_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\5ce73e3a-95a8-4e60-b139-fed8e63c6688_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\5ed67959-5df5-40f8-a3c7-2737757eb10e_63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg",
+      "PackagePath": "staticwebassets\\Image\\5ed67959-5df5-40f8-a3c7-2737757eb10e_63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\621e8d46-5770-475a-8313-6ce31b19299d_303204632.jpg",
+      "PackagePath": "staticwebassets\\Image\\621e8d46-5770-475a-8313-6ce31b19299d_303204632.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg",
+      "PackagePath": "staticwebassets\\Image\\63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\6bbe01f9-0013-457c-b0ef-c94ca69fed2c_me.jpg",
+      "PackagePath": "staticwebassets\\Image\\6bbe01f9-0013-457c-b0ef-c94ca69fed2c_me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\705326f1-13b8-4a70-b55b-3aa1cb818b0d_2c.jpg",
+      "PackagePath": "staticwebassets\\Image\\705326f1-13b8-4a70-b55b-3aa1cb818b0d_2c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\78af1f6d-6f99-42bd-b372-db6205becfd2_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\78af1f6d-6f99-42bd-b372-db6205becfd2_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\7d4b94f7-b972-4603-a7f1-c6b3607d00f4_for seson.jpg",
+      "PackagePath": "staticwebassets\\Image\\7d4b94f7-b972-4603-a7f1-c6b3607d00f4_for seson.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\8168fea9-5708-4645-a0be-97baa5a30876_1c.jpg",
+      "PackagePath": "staticwebassets\\Image\\8168fea9-5708-4645-a0be-97baa5a30876_1c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\8f295ba7-1074-46aa-b257-218715b0c417_لقطة شاشة 2023-10-19 124142.png",
+      "PackagePath": "staticwebassets\\Image\\8f295ba7-1074-46aa-b257-218715b0c417_لقطة شاشة 2023-10-19 124142.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\948006bc-0ff7-46ff-843e-80a0f9084f65_63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg",
+      "PackagePath": "staticwebassets\\Image\\948006bc-0ff7-46ff-843e-80a0f9084f65_63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\9bf02bbb-6896-441e-83d8-7617a0f9c796_AMM_691_aspect16x9.jpg",
+      "PackagePath": "staticwebassets\\Image\\9bf02bbb-6896-441e-83d8-7617a0f9c796_AMM_691_aspect16x9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\9eaed87a-3a67-4d60-9df9-aa0b70ff777f_sara.jpg",
+      "PackagePath": "staticwebassets\\Image\\9eaed87a-3a67-4d60-9df9-aa0b70ff777f_sara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\a14d264c-6581-4bb7-bfcc-dba15f84a8b3_for seson.jpg",
+      "PackagePath": "staticwebassets\\Image\\a14d264c-6581-4bb7-bfcc-dba15f84a8b3_for seson.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\a42d0ca1-d480-41f0-b8db-29309c378e5e_63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg",
+      "PackagePath": "staticwebassets\\Image\\a42d0ca1-d480-41f0-b8db-29309c378e5e_63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\a89f7f5c-a6ac-4943-b7a1-f30032602ad4_قاعدة.heic",
+      "PackagePath": "staticwebassets\\Image\\a89f7f5c-a6ac-4943-b7a1-f30032602ad4_قاعدة.heic"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\ae19011b-f727-417b-9214-f5ae5ade310d_63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg",
+      "PackagePath": "staticwebassets\\Image\\ae19011b-f727-417b-9214-f5ae5ade310d_63b20b86-a87c-4e06-afc0-23a84a7dbf94_esraa.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\ae20557d-28ca-4005-b40e-f1ae3a187ae1_2m.jpg",
+      "PackagePath": "staticwebassets\\Image\\ae20557d-28ca-4005-b40e-f1ae3a187ae1_2m.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\b1082ed2-dba5-4a73-87e7-cdae385329c9_peetrrra.jpg",
+      "PackagePath": "staticwebassets\\Image\\b1082ed2-dba5-4a73-87e7-cdae385329c9_peetrrra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\b167ee0b-60a7-4f97-8c6f-592ac19556d3_2k.jpg",
+      "PackagePath": "staticwebassets\\Image\\b167ee0b-60a7-4f97-8c6f-592ac19556d3_2k.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\b19d7491-09b7-4b91-b028-62ce6bd08e3a_sant reg.jpg",
+      "PackagePath": "staticwebassets\\Image\\b19d7491-09b7-4b91-b028-62ce6bd08e3a_sant reg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\beautiful wedding.jpg",
+      "PackagePath": "staticwebassets\\Image\\beautiful wedding.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\d261a174-81d8-4c36-81bf-95ab8c2d3930_sttttttttttttt.jpg",
+      "PackagePath": "staticwebassets\\Image\\d261a174-81d8-4c36-81bf-95ab8c2d3930_sttttttttttttt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\d3a00aea-75d0-4dae-b2f2-45998365c6ec_sant reg.jpg",
+      "PackagePath": "staticwebassets\\Image\\d3a00aea-75d0-4dae-b2f2-45998365c6ec_sant reg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\d67fc842-908f-4569-9eed-2ae43a3fe1c6_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\d67fc842-908f-4569-9eed-2ae43a3fe1c6_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\dfe58e9e-8ce3-49af-97ad-7a5a431a8ddd_‏‏لقطة الشاشة (1).png",
+      "PackagePath": "staticwebassets\\Image\\dfe58e9e-8ce3-49af-97ad-7a5a431a8ddd_‏‏لقطة الشاشة (1).png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\e81bff48-99eb-4e3b-80c2-86cf405ecd9e_me.jpg",
+      "PackagePath": "staticwebassets\\Image\\e81bff48-99eb-4e3b-80c2-86cf405ecd9e_me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\ef41c2f6-0f0f-4795-9004-ec8f4e0dac7a_3c.jpg",
+      "PackagePath": "staticwebassets\\Image\\ef41c2f6-0f0f-4795-9004-ec8f4e0dac7a_3c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\ef940559-49f2-4c08-9f3b-817b80b75350_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\ef940559-49f2-4c08-9f3b-817b80b75350_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\f3e60799-4579-494e-90fe-dcdb24da8485_xr-ammxr-john-jacob-astor-21321-38312_Wide-Hor.jpg",
+      "PackagePath": "staticwebassets\\Image\\f3e60799-4579-494e-90fe-dcdb24da8485_xr-ammxr-john-jacob-astor-21321-38312_Wide-Hor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\f7729198-76c1-4fea-97c6-b63b21d43b84_me.jpg",
+      "PackagePath": "staticwebassets\\Image\\f7729198-76c1-4fea-97c6-b63b21d43b84_me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\Image\\fa58ef6b-dd00-41fc-9bb8-c9c1359e45ca_لقطة شاشة 2023-10-19 124142.png",
+      "PackagePath": "staticwebassets\\Image\\fa58ef6b-dd00-41fc-9bb8-c9c1359e45ca_لقطة شاشة 2023-10-19 124142.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\css2\\style.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\css2\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\css2\\style.css.map",
+      "PackagePath": "staticwebassets\\LoginRegister\\css2\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\css\\bootstrap\\mixins\\_reset-text.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\css\\bootstrap\\mixins\\_reset-text.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\css\\bootstrap\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\css\\bootstrap\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\css\\style.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\material-icon\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\material-icon\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\material-icon\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\material-icon\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\montserrat-v12-latin-900.eot",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\montserrat-v12-latin-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\montserrat-v12-latin-900.svg",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\montserrat-v12-latin-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\montserrat-v12-latin-900.ttf",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\montserrat-v12-latin-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\montserrat-v12-latin-900.woff",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\montserrat-v12-latin-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\fonts2\\montserrat\\montserrat-v12-latin-900.woff2",
+      "PackagePath": "staticwebassets\\LoginRegister\\fonts2\\montserrat\\montserrat-v12-latin-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\images2\\checked.gif",
+      "PackagePath": "staticwebassets\\LoginRegister\\images2\\checked.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\images2\\room.jpg",
+      "PackagePath": "staticwebassets\\LoginRegister\\images2\\room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\images2\\signup-bg.jpg",
+      "PackagePath": "staticwebassets\\LoginRegister\\images2\\signup-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\images2\\unchecked.gif",
+      "PackagePath": "staticwebassets\\LoginRegister\\images2\\unchecked.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\LoginRegister\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\images\\hotelrecp.jpg",
+      "PackagePath": "staticwebassets\\LoginRegister\\images\\hotelrecp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\js2\\main.js",
+      "PackagePath": "staticwebassets\\LoginRegister\\js2\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LoginRegister\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\LoginRegister\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\js\\main.js",
+      "PackagePath": "staticwebassets\\LoginRegister\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\js\\popper.js",
+      "PackagePath": "staticwebassets\\LoginRegister\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss2\\common\\extend.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss2\\common\\extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss2\\common\\fonts.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss2\\common\\fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss2\\common\\global.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss2\\common\\global.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss2\\common\\minxi.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss2\\common\\minxi.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss2\\common\\variables.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss2\\common\\variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss2\\layouts\\main.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss2\\layouts\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss2\\layouts\\responsive.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss2\\layouts\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss2\\style.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss2\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LoginRegister\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\vendor\\jquery\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\LoginRegister\\vendor\\jquery\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\LoginRegister\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\LoginRegister\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bokking\\Bokking\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Booking.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Booking.props",
+      "PackagePath": "build\\Booking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Booking.props",
+      "PackagePath": "buildMultiTargeting\\Booking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Booking.props",
+      "PackagePath": "buildTransitive\\Booking.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

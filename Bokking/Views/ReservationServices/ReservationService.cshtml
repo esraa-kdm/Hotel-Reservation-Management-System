@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+   Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+
+
+<!-- END section -->
+<section class="section contact-section" id="next">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
+
+                <form asp-controller="ReservationServices" asp-action="ReservationService"  class="bg-white p-md-5 p-4 mb-5 border">
+                    <div class="row">
+                        <div class="col-md-6 form-group">
+                            <label class="text-black font-weight-bold" for="PaymentMethod"> Payment Method </label>
+                            <input type="text" name="PaymentMethod" id="PaymentMethod" class="form-control ">
+                        </div>
+                        <div class="col-md-6 form-group">
+                            <label class="text-black font-weight-bold" for="Cardid">Card Number</label>
+                            <input type="text" name="Cardid" id="Cardid" class="form-control ">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 form-group">
+                            <input type="submit" value="Reserve" class="btn btn-primary text-white py-3 px-5 font-weight-bold">
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+            <div class="col-md-5" data-aos="fade-up" data-aos-delay="200">
+                <div class="row">
+                    <div class="col-md-10 ml-auto contact-info">
+                        <p><span class="d-block">Address:</span> <span class="text-black">Jordan, Amman</span></p>
+                        <p><span class="d-block">Phone:</span> <span class="text-black"> (+1) 435 3533</span></p>
+                        <p><span class="d-block">Email:</span> <span class="text-black"> BokkingInfo@yourdomain.com</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
